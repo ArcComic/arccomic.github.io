@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1451
+work_count: 1453
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -956,6 +956,13 @@ works:
     date: '2026-10-11'
     code: 364923
     url: /works/364923/
+  - title: Yuu x Rik True After
+    author: ankoman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/365667.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 365667
+    url: /works/365667/
   - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
@@ -10750,6 +10757,14 @@ works:
     date: '2026-11-24'
     code: 699473
     url: /works/699473/
+  - title: A story about having super lewd sex with a laid-back, "downer" type female
+      friend who’ll do anything you ask.
+    author: oriue-wato
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700020.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700020
+    url: /works/700020/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

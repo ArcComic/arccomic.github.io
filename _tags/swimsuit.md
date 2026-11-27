@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 127
+work_count: 128
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -967,4 +967,12 @@ works:
     date: '2026-11-25'
     code: 699062
     url: /works/699062/
+  - title: A story about having super lewd sex with a laid-back, "downer" type female
+      friend who’ll do anything you ask.
+    author: oriue-wato
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700020.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700020
+    url: /works/700020/
 ---

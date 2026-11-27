@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 506
+work_count: 508
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -316,6 +316,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Yuu x Rik True After
+    author: ankoman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/365667.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 365667
+    url: /works/365667/
   - title: Ore no Osananajimi ga Uza Kawaii!! | My Childhood Friend Is Annoyingly Cute!!
     author: mataro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369139.jpg
@@ -3771,4 +3778,12 @@ works:
     date: '2026-11-24'
     code: 699536
     url: /works/699536/
+  - title: A story about having super lewd sex with a laid-back, "downer" type female
+      friend who’ll do anything you ask.
+    author: oriue-wato
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700020.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700020
+    url: /works/700020/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 894
+work_count: 896
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -10,6 +10,13 @@ works:
     date: '2026-09-30'
     code: 246449
     url: /works/246449/
+  - title: Yuu x Rik True After
+    author: ankoman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/365667.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 365667
+    url: /works/365667/
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
@@ -6562,4 +6569,12 @@ works:
     date: '2026-11-24'
     code: 699536
     url: /works/699536/
+  - title: A story about having super lewd sex with a laid-back, "downer" type female
+      friend who’ll do anything you ask.
+    author: oriue-wato
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700020.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700020
+    url: /works/700020/
 ---

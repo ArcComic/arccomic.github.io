@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 164
+work_count: 165
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
@@ -152,6 +152,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Yuu x Rik True After
+    author: ankoman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/365667.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 365667
+    url: /works/365667/
   - title: Doukyuusei no Wakai Haha | My Classmate's Young Mom
     author: aoki-kanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383623.jpg
