@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 125
+work_count: 126
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -251,6 +251,14 @@ works:
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 2 ~SeFri Hen~ | How I Got Lucky
+      and Banged the Company's Madonna 2
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584740.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 584740
+    url: /works/584740/
   - title: Kaa-san ga Shikoi nante - My Mom is So Hot
     author: oroboy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 39
+work_count: 40
 works:
   - title: Ningen Sandbag | Human Punching Bag
     author: yamahata-rian
@@ -254,6 +254,13 @@ works:
     date: '2026-10-29'
     code: 689170
     url: /works/689170/
+  - title: Namaiki Gal o Wakarase Shimasu | I'll Teach That Cheeky Gal Some Manners
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693799.jpg
+    rating: 4.3
+    date: '2026-11-06'
+    code: 693799
+    url: /works/693799/
   - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg

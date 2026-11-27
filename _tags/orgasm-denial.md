@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 25
+work_count: 27
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -137,6 +137,16 @@ works:
     date: '2026-07-08'
     code: 662370
     url: /works/662370/
+  - title: Hisabisa ni Kisei shitara Imouto ga Dosukebe Mesugaki ni Natteta Ken ~Imouto
+      to Sugosu H na Natsuyasumi~ | When I went home for the first time in a while,
+      my little sister had turned into a perverted slut ~A naughty summer vacation spent
+      with my little sister
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663391.jpg
+    rating: 4.2
+    date: '2026-11-04'
+    code: 663391
+    url: /works/663391/
   - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
@@ -181,6 +191,13 @@ works:
     date: '2026-11-12'
     code: 692083
     url: /works/692083/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

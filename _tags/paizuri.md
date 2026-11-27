@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 359
+work_count: 366
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
@@ -697,6 +697,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Seitei Gakuen Soccer-bu no Nichijou Kouhen
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581396.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 581396
+    url: /works/581396/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581704.jpg
@@ -728,6 +735,14 @@ works:
     date: '2026-09-26'
     code: 584135
     url: /works/584135/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 3 ~Gal 3p Hen~ | How I Got Lucky
+      and Banged the Company's Madonna 3
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584745.jpg
+    rating: 4.3
+    date: '2026-11-04'
+    code: 584745
+    url: /works/584745/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -935,6 +950,13 @@ works:
     date: '2026-03-04'
     code: 617805
     url: /works/617805/
+  - title: Osananajimi o Wasureteru Boku, Netorareteru Gal.
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618033.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 618033
+    url: /works/618033/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619405.jpg
@@ -1618,6 +1640,16 @@ works:
     date: '2026-07-11'
     code: 663287
     url: /works/663287/
+  - title: Hisabisa ni Kisei shitara Imouto ga Dosukebe Mesugaki ni Natteta Ken ~Imouto
+      to Sugosu H na Natsuyasumi~ | When I went home for the first time in a while,
+      my little sister had turned into a perverted slut ~A naughty summer vacation spent
+      with my little sister
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663391.jpg
+    rating: 4.2
+    date: '2026-11-04'
+    code: 663391
+    url: /works/663391/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~
@@ -2245,6 +2277,13 @@ works:
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
+  - title: Yurie,Yui,Reina,Himeko,Kaori
+    author: sky-freedom
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686176.jpg
+    rating: 4.5
+    date: '2026-11-04'
+    code: 686176
+    url: /works/686176/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (5) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~
@@ -2455,6 +2494,21 @@ works:
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
+  - title: Yuri Couple ni Watte Haitte Shimatta Boku wa - Chapter 01
+    author: asahiru-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693554.jpg
+    rating: 4.0
+    date: '2026-11-06'
+    code: 693554
+    url: /works/693554/
+  - title: Boku no Shoushika Taisaku Matching no Aite wa...... Mama!? | The Dating App
+      Made to Combat The Declining Birthrate Matched me with... My Mom!?
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693734.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 693734
+    url: /works/693734/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

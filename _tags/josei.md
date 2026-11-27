@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "josei"
-work_count: 31
+work_count: 33
 works:
   - title: Yadoya no Musume wa S-Rank Boukensha ni Dekiai Sareru | The Innkeeper's Daughter
       That Was Doted On By The S-Rank Adventurer
@@ -238,4 +238,21 @@ works:
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
+  - title: Zutto Suki datta Onee-san ga Zenshin Jiko Kaihatsu-zumi no Shojo Miboujin
+      ni natteta Hanashi | The Onee-san I’ve Always Loved Became a Virgin Widow Who
+      Had Fully Cultivated Her Own Body
+    author: luku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693234.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693234
+    url: /works/693234/
+  - title: Moto SeFri no Ichihara ga Nigashite Kurenai | My Ex-Sex Friend Won't Let
+      Me Go
+    author: kyapefuro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693721.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693721
+    url: /works/693721/
 ---

@@ -24,7 +24,7 @@ works:
     url: /works/655887/
   - title: Work 663481
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663481.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-26'
     code: 663481
     url: /works/663481/
@@ -48,7 +48,7 @@ works:
     url: /works/664460/
   - title: Work 669669
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669669.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-26'
     code: 669669
     url: /works/669669/

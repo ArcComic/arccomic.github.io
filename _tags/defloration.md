@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 328
+work_count: 334
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -81,6 +81,13 @@ works:
     date: '2026-04-25'
     code: 289094
     url: /works/289094/
+  - title: Kuro Gal Shojo wa Ochinpo Chuudoku | The Dark Virgin Gal is Addicted to Cocks
+    author: naitou-haruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298512.jpg
+    rating: 4.7
+    date: '2026-11-04'
+    code: 298512
+    url: /works/298512/
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
@@ -1049,6 +1056,13 @@ works:
     date: '2026-10-30'
     code: 617074
     url: /works/617074/
+  - title: Osananajimi o Wasureteru Boku, Netorareteru Gal.
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618033.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 618033
+    url: /works/618033/
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
@@ -1726,6 +1740,16 @@ works:
     date: '2026-07-13'
     code: 663389
     url: /works/663389/
+  - title: Hisabisa ni Kisei shitara Imouto ga Dosukebe Mesugaki ni Natteta Ken ~Imouto
+      to Sugosu H na Natsuyasumi~ | When I went home for the first time in a while,
+      my little sister had turned into a perverted slut ~A naughty summer vacation spent
+      with my little sister
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663391.jpg
+    rating: 4.2
+    date: '2026-11-04'
+    code: 663391
+    url: /works/663391/
   - title: Cheeky and Charming
     author: ono-kenuji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663598.jpg
@@ -2332,6 +2356,29 @@ works:
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
+  - title: Zutto Suki datta Onee-san ga Zenshin Jiko Kaihatsu-zumi no Shojo Miboujin
+      ni natteta Hanashi | The Onee-san I’ve Always Loved Became a Virgin Widow Who
+      Had Fully Cultivated Her Own Body
+    author: luku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693234.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693234
+    url: /works/693234/
+  - title: Its Shining Moonflower Captivates Me Ch. 1-3
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693674.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693674
+    url: /works/693674/
+  - title: Arisu-chan no Onegai Goto | Arisu-chan's Request Ch.1-3
+    author: shiina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693789.jpg
+    rating: 4.6
+    date: '2026-11-04'
+    code: 693789
+    url: /works/693789/
   - title: Nude Model o Koushi Mizukara Yatte kureru Gajuku no Hanashi | The story of
       an art cram school where the instructor herself volunteers to be a nude model
     author: kekemotsu

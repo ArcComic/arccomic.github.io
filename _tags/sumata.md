@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 42
+work_count: 43
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -259,6 +259,13 @@ works:
     date: '2026-10-13'
     code: 687044
     url: /works/687044/
+  - title: Arisu-chan no Onegai Goto | Arisu-chan's Request Ch.1-3
+    author: shiina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693789.jpg
+    rating: 4.6
+    date: '2026-11-04'
+    code: 693789
+    url: /works/693789/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

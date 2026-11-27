@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 120
+work_count: 121
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -829,6 +829,13 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Inaka de Oba-san to Mechamecha Sex Shita Hanashi | THE STORY OF HOW I HAD
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691443.jpg
+    rating: 4.7
+    date: '2026-11-04'
+    code: 691443
+    url: /works/691443/
   - title: The Scent of Enchantment
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg

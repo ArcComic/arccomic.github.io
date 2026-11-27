@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 63
+work_count: 65
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -361,6 +361,15 @@ works:
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
+  - title: Zecchou Houkai ~Tsuma no Tomodachi o Ikasetara... Sono Otto ni Tsuma o Kowasaremashita~
+      | Climax Collapse ~When I Made My Wife’s Friend Climax… Her Husband Destroyed
+      My Wife~
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682781.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 682781
+    url: /works/682781/
   - title: Parasite of Loneliness - CHAPTER 1-17
     author: itoh-anyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683430.jpg
@@ -404,6 +413,14 @@ works:
     date: '2026-11-17'
     code: 690540
     url: /works/690540/
+  - title: Kimi no Mae de Kimi Igai o Daku Ch. 42 | Having Sex with Someone Else in
+      Front of You 42
+    author: nakao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693675.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693675
+    url: /works/693675/
   - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg

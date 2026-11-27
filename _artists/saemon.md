@@ -5,7 +5,7 @@ work_count: 9
 works:
   - title: Work 143853
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143853.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-26'
     code: 143853
     url: /works/143853/
@@ -36,13 +36,13 @@ works:
     url: /works/312587/
   - title: Work 314368
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314368.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-26'
     code: 314368
     url: /works/314368/
   - title: Work 343122
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/343122.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-26'
     code: 343122
     url: /works/343122/

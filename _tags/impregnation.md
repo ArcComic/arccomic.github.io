@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 226
+work_count: 228
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1558,6 +1558,22 @@ works:
     date: '2026-10-21'
     code: 688611
     url: /works/688611/
+  - title: Moto SeFri no Ichihara ga Nigashite Kurenai | My Ex-Sex Friend Won't Let
+      Me Go
+    author: kyapefuro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693721.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693721
+    url: /works/693721/
+  - title: Boku no Shoushika Taisaku Matching no Aite wa...... Mama!? | The Dating App
+      Made to Combat The Declining Birthrate Matched me with... My Mom!?
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693734.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 693734
+    url: /works/693734/
   - title: Doing Whatever I Please with the Help of Drugs! Breeding and Training in
       Another World
     author: sukoyasu

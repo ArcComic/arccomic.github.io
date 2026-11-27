@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 112
+work_count: 113
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -121,6 +121,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Seitei Gakuen Soccer-bu no Nichijou Kouhen
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581396.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 581396
+    url: /works/581396/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g

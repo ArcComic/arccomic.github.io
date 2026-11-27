@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 66
+work_count: 68
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -449,6 +449,21 @@ works:
     date: '2026-10-29'
     code: 689170
     url: /works/689170/
+  - title: Ketsuana Katsuage ni Muchuu na Gal-san wa Iramura Ananii ga Tomaranai! |
+      The Gyaru Who Is Obsessed with Butt-Hole Rimjobs Just Can’t Stop Her Cumming Moans!
+    author: kutsukake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693509.jpg
+    rating: 5.0
+    date: '2026-11-04'
+    code: 693509
+    url: /works/693509/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
     author: oosawa-ofuda-ohuda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg

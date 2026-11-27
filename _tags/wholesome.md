@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 266
+work_count: 269
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -818,6 +818,13 @@ works:
     date: '2026-09-18'
     code: 608519
     url: /works/608519/
+  - title: Kimi no E wo Egaku | The Portrait of You
+    author: higeta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609674.jpg
+    rating: 4.2
+    date: '2026-11-06'
+    code: 609674
+    url: /works/609674/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -1528,6 +1535,16 @@ works:
     date: '2026-07-13'
     code: 663389
     url: /works/663389/
+  - title: Hisabisa ni Kisei shitara Imouto ga Dosukebe Mesugaki ni Natteta Ken ~Imouto
+      to Sugosu H na Natsuyasumi~ | When I went home for the first time in a while,
+      my little sister had turned into a perverted slut ~A naughty summer vacation spent
+      with my little sister
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663391.jpg
+    rating: 4.2
+    date: '2026-11-04'
+    code: 663391
+    url: /works/663391/
   - title: Cheeky and Charming
     author: ono-kenuji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663598.jpg
@@ -1970,6 +1987,15 @@ works:
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
+  - title: Zutto Suki datta Onee-san ga Zenshin Jiko Kaihatsu-zumi no Shojo Miboujin
+      ni natteta Hanashi | The Onee-san I’ve Always Loved Became a Virgin Widow Who
+      Had Fully Cultivated Her Own Body
+    author: luku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693234.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693234
+    url: /works/693234/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chastity belt"
-work_count: 23
+work_count: 24
 works:
   - title: Ningen Sandbag | Human Punching Bag
     author: yamahata-rian
@@ -170,4 +170,11 @@ works:
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 411
+work_count: 416
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -661,6 +661,14 @@ works:
     date: '2026-07-17'
     code: 581704
     url: /works/581704/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 3 ~Gal 3p Hen~ | How I Got Lucky
+      and Banged the Company's Madonna 3
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584745.jpg
+    rating: 4.3
+    date: '2026-11-04'
+    code: 584745
+    url: /works/584745/
   - title: Kanojo no Present | Her Present
     author: nr
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
@@ -2547,6 +2555,37 @@ works:
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
+  - title: Zutto Suki datta Onee-san ga Zenshin Jiko Kaihatsu-zumi no Shojo Miboujin
+      ni natteta Hanashi | The Onee-san I’ve Always Loved Became a Virgin Widow Who
+      Had Fully Cultivated Her Own Body
+    author: luku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693234.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693234
+    url: /works/693234/
+  - title: Yuri Couple ni Watte Haitte Shimatta Boku wa - Chapter 01
+    author: asahiru-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693554.jpg
+    rating: 4.0
+    date: '2026-11-06'
+    code: 693554
+    url: /works/693554/
+  - title: Kizoku Shounen no Sei Shorigakari
+    author: inoharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693652.jpg
+    rating: 4.8
+    date: '2026-11-06'
+    code: 693652
+    url: /works/693652/
+  - title: Moto SeFri no Ichihara ga Nigashite Kurenai | My Ex-Sex Friend Won't Let
+      Me Go
+    author: kyapefuro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693721.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693721
+    url: /works/693721/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

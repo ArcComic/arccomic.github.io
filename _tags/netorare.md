@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 601
+work_count: 610
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -316,6 +316,14 @@ works:
     date: '2026-11-21'
     code: 373617
     url: /works/373617/
+  - title: Aniki ni Tabetsukusareta Ore no Kanojo. | My Older Brother Fucked My Girlfriend
+      Like Crazy
+    author: sekai-ichii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376561.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 376561
+    url: /works/376561/
   - title: Tsuma no Fuyugomori  Kashidasareta Karada
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
@@ -897,6 +905,14 @@ works:
     date: '2026-08-18'
     code: 508818
     url: /works/508818/
+  - title: Skirt no Naka, Netorare-chuu. ~ Fuuki Iin wa Furyou ni Zettai Fukujuu desu
+      1 | NTR Underneath Her Skirt 1
+    author: izumi-uni
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510101.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 510101
+    url: /works/510101/
   - title: Kekkon Majika no Misoji OL , Deisui Shite Kitaku go Soku Sex Shita Aite wa
       Rinjin Deshita!? 1 | A 30 year old Office Lady on the verge of Marriage comes
       Home Intoxicated, and has Sex with her Neighbor! 1
@@ -1727,6 +1743,13 @@ works:
     date: '2026-10-30'
     code: 617074
     url: /works/617074/
+  - title: Osananajimi o Wasureteru Boku, Netorareteru Gal.
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618033.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 618033
+    url: /works/618033/
   - title: The NTR Massage Vol. 1-2
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
@@ -2018,6 +2041,14 @@ works:
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
+  - title: Otoko Tomodachi no Youna Ore no Osananajimi ga, Yarichin ni Yotte Mesu ni
+      Saserareru Hanashi. 1-3
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638568.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 638568
+    url: /works/638568/
   - title: The story of how the girl who was always by my side is turned into a submissive
       female by a womanizer
     author: ubuo
@@ -3590,6 +3621,15 @@ works:
     date: '2026-09-20'
     code: 682613
     url: /works/682613/
+  - title: Zecchou Houkai ~Tsuma no Tomodachi o Ikasetara... Sono Otto ni Tsuma o Kowasaremashita~
+      | Climax Collapse ~When I Made My Wife’s Friend Climax… Her Husband Destroyed
+      My Wife~
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682781.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 682781
+    url: /works/682781/
   - title: Boku dake ga Class no Ano Ko to Sex dekinai Sekai | The World Where Only
       I Can't Fuck the Class Gal
     author: armjaw
@@ -3972,6 +4012,14 @@ works:
     date: '2026-10-15'
     code: 687531
     url: /works/687531/
+  - title: Joukyou Share House 2 ~Honmono no Osu o Shitte shimatta Kanojo~ | TOKYO SHAREHOUSE
+      2 - MY GIRLFRIEND, AWAKENED BY A REAL ALPHA
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687532.jpg
+    rating: 4.9
+    date: '2026-10-15'
+    code: 687532
+    url: /works/687532/
   - title: Riho-chan Kashidashi Surutte Yo
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
@@ -4163,6 +4211,29 @@ works:
     date: '2026-10-28'
     code: 691635
     url: /works/691635/
+  - title: Kimi no Mae de Kimi Igai o Daku Ch. 42 | Having Sex with Someone Else in
+      Front of You 42
+    author: nakao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693675.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693675
+    url: /works/693675/
+  - title: Mukashi Mukashi no Netorare Jouji | A Tale of Cuckoldry from Long Ago
+    author: kitahana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693723.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 693723
+    url: /works/693723/
+  - title: Ano Toki Yatte Okeba, Ore no Datta no ni | If I'd Had My Way Back Then, She
+      Would Have Been Mine
+    author: tokumei-kitsutsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693803.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693803
+    url: /works/693803/
   - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark nipples"
-work_count: 15
+work_count: 16
 works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     author: spices
@@ -93,6 +93,13 @@ works:
     date: '2026-10-13'
     code: 687086
     url: /works/687086/
+  - title: Boin Yuugi
+    author: escape
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687602.jpg
+    rating: 4.3
+    date: '2026-10-15'
+    code: 687602
+    url: /works/687602/
   - title: Ganmen ga Sukisugiru Ishiwatari-san ga Konna ni Oni Seiyokuda nante Shiritaku
       wa Nakatta
     author: kozakura-kumaneko

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 46
+work_count: 48
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -81,6 +81,13 @@ works:
     date: '2026-03-03'
     code: 576288
     url: /works/576288/
+  - title: Seitei Gakuen Soccer-bu no Nichijou Kouhen
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581396.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 581396
+    url: /works/581396/
   - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
     author: yufuck
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583437.jpg
@@ -282,6 +289,13 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg

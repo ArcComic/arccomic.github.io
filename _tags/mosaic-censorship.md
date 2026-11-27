@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 451
+work_count: 459
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
@@ -1186,6 +1186,13 @@ works:
     date: '2026-09-12'
     code: 573973
     url: /works/573973/
+  - title: Kaigun no Onna | A Woman In The Marines
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574970.jpg
+    rating: 4.3
+    date: '2026-10-15'
+    code: 574970
+    url: /works/574970/
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576288.jpg
@@ -1267,6 +1274,30 @@ works:
     date: '2026-09-28'
     code: 584529
     url: /works/584529/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi | How I Got Lucky and Banged
+      the Company's Madonna
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584739.jpg
+    rating: 4.0
+    date: '2026-11-04'
+    code: 584739
+    url: /works/584739/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 2 ~SeFri Hen~ | How I Got Lucky
+      and Banged the Company's Madonna 2
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584740.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 584740
+    url: /works/584740/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 3 ~Gal 3p Hen~ | How I Got Lucky
+      and Banged the Company's Madonna 3
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584745.jpg
+    rating: 4.3
+    date: '2026-11-04'
+    code: 584745
+    url: /works/584745/
   - title: Kaa-san ga Shikoi nante - My Mom is So Hot
     author: oroboy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
@@ -1762,6 +1793,14 @@ works:
     date: '2026-09-23'
     code: 638513
     url: /works/638513/
+  - title: Otoko Tomodachi no Youna Ore no Osananajimi ga, Yarichin ni Yotte Mesu ni
+      Saserareru Hanashi. 1-3
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638568.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 638568
+    url: /works/638568/
   - title: The story of how the girl who was always by my side is turned into a submissive
       female by a womanizer
     author: ubuo
@@ -2295,6 +2334,16 @@ works:
     date: '2026-07-11'
     code: 663195
     url: /works/663195/
+  - title: Hisabisa ni Kisei shitara Imouto ga Dosukebe Mesugaki ni Natteta Ken ~Imouto
+      to Sugosu H na Natsuyasumi~ | When I went home for the first time in a while,
+      my little sister had turned into a perverted slut ~A naughty summer vacation spent
+      with my little sister
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663391.jpg
+    rating: 4.2
+    date: '2026-11-04'
+    code: 663391
+    url: /works/663391/
   - title: Under The Table
     author: tsuttsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663765.jpg
@@ -3021,6 +3070,14 @@ works:
     date: '2026-10-15'
     code: 687531
     url: /works/687531/
+  - title: Joukyou Share House 2 ~Honmono no Osu o Shitte shimatta Kanojo~ | TOKYO SHAREHOUSE
+      2 - MY GIRLFRIEND, AWAKENED BY A REAL ALPHA
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687532.jpg
+    rating: 4.9
+    date: '2026-10-15'
+    code: 687532
+    url: /works/687532/
   - title: Riho-chan Kashidashi Surutte Yo
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
@@ -3181,6 +3238,14 @@ works:
     date: '2026-10-28'
     code: 691620
     url: /works/691620/
+  - title: Boku no Shoushika Taisaku Matching no Aite wa...... Mama!? | The Dating App
+      Made to Combat The Declining Birthrate Matched me with... My Mom!?
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693734.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 693734
+    url: /works/693734/
   - title: Nude Model o Koushi Mizukara Yatte kureru Gajuku no Hanashi | The story of
       an art cram school where the instructor herself volunteers to be a nude model
     author: kekemotsu

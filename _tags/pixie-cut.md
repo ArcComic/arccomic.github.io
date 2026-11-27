@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 131
+work_count: 134
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -930,6 +930,30 @@ works:
     date: '2026-11-17'
     code: 689306
     url: /works/689306/
+  - title: Joshi Kou no Sei Shori Gakari ni Ninmei Sareru Hanashi | The Story Where
+      I Was Assigned to Sexual Relief Duty at a Girls' School
+    author: pirukusu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693377.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693377
+    url: /works/693377/
+  - title: Ketsuana Katsuage ni Muchuu na Gal-san wa Iramura Ananii ga Tomaranai! |
+      The Gyaru Who Is Obsessed with Butt-Hole Rimjobs Just Can’t Stop Her Cumming Moans!
+    author: kutsukake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693509.jpg
+    rating: 5.0
+    date: '2026-11-04'
+    code: 693509
+    url: /works/693509/
+  - title: Boku no Shoushika Taisaku Matching no Aite wa...... Mama!? | The Dating App
+      Made to Combat The Declining Birthrate Matched me with... My Mom!?
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693734.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 693734
+    url: /works/693734/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg

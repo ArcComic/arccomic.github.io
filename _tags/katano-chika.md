@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "katano chika"
-work_count: 3
+work_count: 4
 works:
   - title: Mama to Musuko ga Mujintou de Love Love Sex suru Hanashi |  A Story of a
       Mom and Her Son's Lovemaking on a Uninhabited Island
@@ -26,4 +26,12 @@ works:
     date: '2026-11-08'
     code: 606648
     url: /works/606648/
+  - title: Boku no Shoushika Taisaku Matching no Aite wa...... Mama!? | The Dating App
+      Made to Combat The Declining Birthrate Matched me with... My Mom!?
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693734.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 693734
+    url: /works/693734/
 ---

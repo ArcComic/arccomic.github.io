@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 531
+work_count: 538
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -138,6 +138,13 @@ works:
     date: '2026-04-16'
     code: 297068
     url: /works/297068/
+  - title: Kuro Gal Shojo wa Ochinpo Chuudoku | The Dark Virgin Gal is Addicted to Cocks
+    author: naitou-haruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298512.jpg
+    rating: 4.7
+    date: '2026-11-04'
+    code: 298512
+    url: /works/298512/
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
@@ -926,6 +933,14 @@ works:
     date: '2026-10-05'
     code: 509584
     url: /works/509584/
+  - title: Skirt no Naka, Netorare-chuu. ~ Fuuki Iin wa Furyou ni Zettai Fukujuu desu
+      1 | NTR Underneath Her Skirt 1
+    author: izumi-uni
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510101.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 510101
+    url: /works/510101/
   - title: Watashi de Sukkiri Sasechaina ~Hatsukoi Aite ni Tsurareru Ore~
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510698.jpg
@@ -3251,6 +3266,15 @@ works:
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
+  - title: Zecchou Houkai ~Tsuma no Tomodachi o Ikasetara... Sono Otto ni Tsuma o Kowasaremashita~
+      | Climax Collapse ~When I Made My Wife’s Friend Climax… Her Husband Destroyed
+      My Wife~
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682781.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 682781
+    url: /works/682781/
   - title: NeCafe no Onee-san to 3-Jikan Pack no xxx | XXX with the Net Cafe Lady on
       a 3-Hour Package
     author: technician
@@ -3528,6 +3552,14 @@ works:
     date: '2026-10-15'
     code: 687531
     url: /works/687531/
+  - title: Joukyou Share House 2 ~Honmono no Osu o Shitte shimatta Kanojo~ | TOKYO SHAREHOUSE
+      2 - MY GIRLFRIEND, AWAKENED BY A REAL ALPHA
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687532.jpg
+    rating: 4.9
+    date: '2026-10-15'
+    code: 687532
+    url: /works/687532/
   - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
@@ -3667,6 +3699,13 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Inaka de Oba-san to Mechamecha Sex Shita Hanashi | THE STORY OF HOW I HAD
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691443.jpg
+    rating: 4.7
+    date: '2026-11-04'
+    code: 691443
+    url: /works/691443/
   - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg
@@ -3696,6 +3735,21 @@ works:
     date: '2026-11-20'
     code: 692673
     url: /works/692673/
+  - title: Hitozuma ni Natta Osananajimi o "Nandemo Ken" de Daita Natsu Zoku | The Summer
+      I Took My Childhood Friend, Now a Wife, With a "Good-for-Anything Coupon" - Sequel
+    author: special-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693802.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 693802
+    url: /works/693802/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg

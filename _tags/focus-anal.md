@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "focus anal"
-work_count: 13
+work_count: 14
 works:
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
@@ -92,6 +92,14 @@ works:
     date: '2026-09-28'
     code: 684587
     url: /works/684587/
+  - title: Ketsuana Katsuage ni Muchuu na Gal-san wa Iramura Ananii ga Tomaranai! |
+      The Gyaru Who Is Obsessed with Butt-Hole Rimjobs Just Can’t Stop Her Cumming Moans!
+    author: kutsukake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693509.jpg
+    rating: 5.0
+    date: '2026-11-04'
+    code: 693509
+    url: /works/693509/
   - title: 'The Anal Poop Girl, re: Aya the New Bride'
     author: goma-gorilla
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698937.jpg

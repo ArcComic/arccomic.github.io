@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 139
+work_count: 141
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -206,6 +206,13 @@ works:
     date: '2026-10-11'
     code: 485876
     url: /works/485876/
+  - title: Kimi no Ashi wa, Boku no Kokoro o Mote Asobu
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/487307.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 487307
+    url: /works/487307/
   - title: Syuju - Kankei
     author: 810eru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489004.jpg
@@ -425,6 +432,13 @@ works:
     date: '2026-04-27'
     code: 606719
     url: /works/606719/
+  - title: Kimi no E wo Egaku | The Portrait of You
+    author: higeta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609674.jpg
+    rating: 4.2
+    date: '2026-11-06'
+    code: 609674
+    url: /works/609674/
   - title: Mugon Muhyoujou no Kasshoku Elf, Rental Shitemasu + Gojitsudan | Rent-an-Elf
       + Afterstory
     author: takurowo

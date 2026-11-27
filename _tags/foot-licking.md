@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "foot licking"
-work_count: 19
+work_count: 21
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -31,6 +31,13 @@ works:
     date: '2026-09-29'
     code: 438138
     url: /works/438138/
+  - title: Kimi no Ashi wa, Boku no Kokoro o Mote Asobu
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/487307.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 487307
+    url: /works/487307/
   - title: Do-S Yankee JK to Do-M Hentai Teacher
     author: naganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512715.jpg
@@ -124,6 +131,13 @@ works:
     date: '2026-10-13'
     code: 687228
     url: /works/687228/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Bokura no Libido - CHAPTER 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg

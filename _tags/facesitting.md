@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 43
+work_count: 44
 works:
   - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
     author: sugi-g
@@ -295,6 +295,14 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Ketsuana Katsuage ni Muchuu na Gal-san wa Iramura Ananii ga Tomaranai! |
+      The Gyaru Who Is Obsessed with Butt-Hole Rimjobs Just Can’t Stop Her Cumming Moans!
+    author: kutsukake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693509.jpg
+    rating: 5.0
+    date: '2026-11-04'
+    code: 693509
+    url: /works/693509/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

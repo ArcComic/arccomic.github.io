@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 193
+work_count: 198
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -1314,6 +1314,13 @@ works:
     date: '2026-10-09'
     code: 686113
     url: /works/686113/
+  - title: Yurie,Yui,Reina,Himeko,Kaori
+    author: sky-freedom
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686176.jpg
+    rating: 4.5
+    date: '2026-11-04'
+    code: 686176
+    url: /works/686176/
   - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
       Ladies
     author: group
@@ -1352,6 +1359,13 @@ works:
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
+  - title: Inaka de Oba-san to Mechamecha Sex Shita Hanashi | THE STORY OF HOW I HAD
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691443.jpg
+    rating: 4.7
+    date: '2026-11-04'
+    code: 691443
+    url: /works/691443/
   - title: The Ex-Delinquent Mom Won't Be Looked Down On
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg
@@ -1366,6 +1380,28 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: MIO Chapter
+    author: sky-freedom
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693560.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693560
+    url: /works/693560/
+  - title: Kizoku Shounen no Sei Shorigakari
+    author: inoharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693652.jpg
+    rating: 4.8
+    date: '2026-11-06'
+    code: 693652
+    url: /works/693652/
+  - title: Boku no Shoushika Taisaku Matching no Aite wa...... Mama!? | The Dating App
+      Made to Combat The Declining Birthrate Matched me with... My Mom!?
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693734.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 693734
+    url: /works/693734/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg

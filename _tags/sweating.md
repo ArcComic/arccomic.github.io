@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 244
+work_count: 247
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -579,6 +579,13 @@ works:
     date: '2026-11-25'
     code: 579609
     url: /works/579609/
+  - title: Seitei Gakuen Soccer-bu no Nichijou Kouhen
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581396.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 581396
+    url: /works/581396/
   - title: Her Predicaments
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
@@ -1730,6 +1737,20 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Kizoku Shounen no Sei Shorigakari
+    author: inoharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693652.jpg
+    rating: 4.8
+    date: '2026-11-06'
+    code: 693652
+    url: /works/693652/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
       Mom
     author: hotate-chan

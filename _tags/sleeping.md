@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 78
+work_count: 79
 works:
   - title: Kurashiki-sensei wa Hatsujouki (Fujiyama-san wa Shishunki) | Kurashiki-sensei
       is in heat
@@ -317,6 +317,13 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Osananajimi o Wasureteru Boku, Netorareteru Gal.
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618033.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 618033
+    url: /works/618033/
   - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
       A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
     author: saishow

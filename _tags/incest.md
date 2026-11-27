@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 424
+work_count: 428
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -2121,6 +2121,16 @@ works:
     date: '2026-07-11'
     code: 663195
     url: /works/663195/
+  - title: Hisabisa ni Kisei shitara Imouto ga Dosukebe Mesugaki ni Natteta Ken ~Imouto
+      to Sugosu H na Natsuyasumi~ | When I went home for the first time in a while,
+      my little sister had turned into a perverted slut ~A naughty summer vacation spent
+      with my little sister
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663391.jpg
+    rating: 4.2
+    date: '2026-11-04'
+    code: 663391
+    url: /works/663391/
   - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
     author: himegoto-jukujo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663622.jpg
@@ -2887,6 +2897,13 @@ works:
     date: '2026-10-15'
     code: 687596
     url: /works/687596/
+  - title: Boin Yuugi
+    author: escape
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687602.jpg
+    rating: 4.3
+    date: '2026-10-15'
+    code: 687602
+    url: /works/687602/
   - title: My Mom, My Love 10
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687720.jpg
@@ -2961,6 +2978,13 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: Inaka de Oba-san to Mechamecha Sex Shita Hanashi | THE STORY OF HOW I HAD
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691443.jpg
+    rating: 4.7
+    date: '2026-11-04'
+    code: 691443
+    url: /works/691443/
   - title: The Ex-Delinquent Mom Won't Be Looked Down On
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg
@@ -2976,6 +3000,14 @@ works:
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
+  - title: Boku no Shoushika Taisaku Matching no Aite wa...... Mama!? | The Dating App
+      Made to Combat The Declining Birthrate Matched me with... My Mom!?
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693734.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 693734
+    url: /works/693734/
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg

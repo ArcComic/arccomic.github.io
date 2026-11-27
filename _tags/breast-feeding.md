@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 140
+work_count: 143
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -897,6 +897,28 @@ works:
     date: '2026-11-12'
     code: 692083
     url: /works/692083/
+  - title: Yuri Couple ni Watte Haitte Shimatta Boku wa - Chapter 01
+    author: asahiru-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693554.jpg
+    rating: 4.0
+    date: '2026-11-06'
+    code: 693554
+    url: /works/693554/
+  - title: Moto SeFri no Ichihara ga Nigashite Kurenai | My Ex-Sex Friend Won't Let
+      Me Go
+    author: kyapefuro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693721.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693721
+    url: /works/693721/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

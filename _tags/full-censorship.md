@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 173
+work_count: 179
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -73,6 +73,13 @@ works:
     date: '2026-10-02'
     code: 284270
     url: /works/284270/
+  - title: Kuro Gal Shojo wa Ochinpo Chuudoku | The Dark Virgin Gal is Addicted to Cocks
+    author: naitou-haruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298512.jpg
+    rating: 4.7
+    date: '2026-11-04'
+    code: 298512
+    url: /works/298512/
   - title: The Girl That Got Stuck in the Wall Ch.11/11
     author: gaehoju
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg
@@ -610,6 +617,13 @@ works:
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
+  - title: Kimi no E wo Egaku | The Portrait of You
+    author: higeta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609674.jpg
+    rating: 4.2
+    date: '2026-11-06'
+    code: 609674
+    url: /works/609674/
   - title: Dad stole my gf so i try to steal his wife - CH3
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613292.jpg
@@ -1160,6 +1174,20 @@ works:
     date: '2026-11-23'
     code: 693010
     url: /works/693010/
+  - title: Yuri Couple ni Watte Haitte Shimatta Boku wa - Chapter 01
+    author: asahiru-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693554.jpg
+    rating: 4.0
+    date: '2026-11-06'
+    code: 693554
+    url: /works/693554/
+  - title: Sensei, please + Sensei, more please [English}
+    author: mitsuba-minoru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693883.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 693883
+    url: /works/693883/
   - title: Even the chairman wants to do it, you know
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693913.jpg
@@ -1174,6 +1202,20 @@ works:
     date: '2026-11-08'
     code: 693914
     url: /works/693914/
+  - title: The Useless Succubus Is Going to Reach Orgasm Today for Sure
+    author: signo-mandara-signoaaa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693922.jpg
+    rating: 4.8
+    date: '2026-11-06'
+    code: 693922
+    url: /works/693922/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg

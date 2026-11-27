@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 107
+work_count: 108
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -736,6 +736,13 @@ works:
     date: '2026-11-17'
     code: 690540
     url: /works/690540/
+  - title: Kizoku Shounen no Sei Shorigakari
+    author: inoharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693652.jpg
+    rating: 4.8
+    date: '2026-11-06'
+    code: 693652
+    url: /works/693652/
   - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
       Mom
     author: hotate-chan

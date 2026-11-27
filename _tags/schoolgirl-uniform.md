@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 493
+work_count: 504
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -103,6 +103,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Kuro Gal Shojo wa Ochinpo Chuudoku | The Dark Virgin Gal is Addicted to Cocks
+    author: naitou-haruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298512.jpg
+    rating: 4.7
+    date: '2026-11-04'
+    code: 298512
+    url: /works/298512/
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
@@ -309,6 +316,14 @@ works:
     date: '2026-10-15'
     code: 369712
     url: /works/369712/
+  - title: Aniki ni Tabetsukusareta Ore no Kanojo. | My Older Brother Fucked My Girlfriend
+      Like Crazy
+    author: sekai-ichii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376561.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 376561
+    url: /works/376561/
   - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
     author: kawauchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg
@@ -680,6 +695,14 @@ works:
     date: '2026-09-26'
     code: 506789
     url: /works/506789/
+  - title: Skirt no Naka, Netorare-chuu. ~ Fuuki Iin wa Furyou ni Zettai Fukujuu desu
+      1 | NTR Underneath Her Skirt 1
+    author: izumi-uni
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510101.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 510101
+    url: /works/510101/
   - title: Do-S Yankee JK to Do-M Hentai Teacher
     author: naganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512715.jpg
@@ -1346,6 +1369,13 @@ works:
     date: '2026-10-30'
     code: 617074
     url: /works/617074/
+  - title: Osananajimi o Wasureteru Boku, Netorareteru Gal.
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618033.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 618033
+    url: /works/618033/
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
@@ -3428,6 +3458,53 @@ works:
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
+  - title: Joshi Kou no Sei Shori Gakari ni Ninmei Sareru Hanashi | The Story Where
+      I Was Assigned to Sexual Relief Duty at a Girls' School
+    author: pirukusu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693377.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693377
+    url: /works/693377/
+  - title: Ketsuana Katsuage ni Muchuu na Gal-san wa Iramura Ananii ga Tomaranai! |
+      The Gyaru Who Is Obsessed with Butt-Hole Rimjobs Just Can’t Stop Her Cumming Moans!
+    author: kutsukake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693509.jpg
+    rating: 5.0
+    date: '2026-11-04'
+    code: 693509
+    url: /works/693509/
+  - title: Joshikousei ni Natta Mama Tanoshimu Gakuen Seikatsu Ep.2 Ponite to Mizugi
+      | Enjoying the Life After Turning into a Schoolgirl Ep.2 Ponytail and Swimsuit
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693749.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693749
+    url: /works/693749/
+  - title: Namaiki Gal o Wakarase Shimasu | I'll Teach That Cheeky Gal Some Manners
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693799.jpg
+    rating: 4.3
+    date: '2026-11-06'
+    code: 693799
+    url: /works/693799/
+  - title: Hitozuma ni Natta Osananajimi o "Nandemo Ken" de Daita Natsu Zoku | The Summer
+      I Took My Childhood Friend, Now a Wife, With a "Good-for-Anything Coupon" - Sequel
+    author: special-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693802.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 693802
+    url: /works/693802/
+  - title: Ano Toki Yatte Okeba, Ore no Datta no ni | If I'd Had My Way Back Then, She
+      Would Have Been Mine
+    author: tokumei-kitsutsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693803.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693803
+    url: /works/693803/
   - title: Even the chairman wants to do it, you know
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693913.jpg
@@ -3435,6 +3512,13 @@ works:
     date: '2026-11-09'
     code: 693913
     url: /works/693913/
+  - title: The Useless Succubus Is Going to Reach Orgasm Today for Sure
+    author: signo-mandara-signoaaa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693922.jpg
+    rating: 4.8
+    date: '2026-11-06'
+    code: 693922
+    url: /works/693922/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

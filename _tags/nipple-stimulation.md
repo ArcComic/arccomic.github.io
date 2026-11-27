@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 243
+work_count: 250
 works:
   - title: bust top secret
     author: plum
@@ -245,6 +245,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Seitei Gakuen Soccer-bu no Nichijou Kouhen
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581396.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 581396
+    url: /works/581396/
   - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
       Game - Training up a Cheeky Girl at a Sex Facility.
     author: carpsukidayo
@@ -275,6 +282,14 @@ works:
     date: '2026-04-23'
     code: 584579
     url: /works/584579/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 3 ~Gal 3p Hen~ | How I Got Lucky
+      and Banged the Company's Madonna 3
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584745.jpg
+    rating: 4.3
+    date: '2026-11-04'
+    code: 584745
+    url: /works/584745/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -1210,6 +1225,15 @@ works:
     date: '2026-09-20'
     code: 682579
     url: /works/682579/
+  - title: Zecchou Houkai ~Tsuma no Tomodachi o Ikasetara... Sono Otto ni Tsuma o Kowasaremashita~
+      | Climax Collapse ~When I Made My Wife’s Friend Climax… Her Husband Destroyed
+      My Wife~
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682781.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 682781
+    url: /works/682781/
   - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
@@ -1534,6 +1558,36 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Yuri Couple ni Watte Haitte Shimatta Boku wa - Chapter 01
+    author: asahiru-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693554.jpg
+    rating: 4.0
+    date: '2026-11-06'
+    code: 693554
+    url: /works/693554/
+  - title: Yarisa no Onna ga Zenin Ore no Sei de Nuketa node Batsu toshite Ore ga Onna
+      ni Naru Hanashi | A story about how all the girls in the "Hookup Circle" quit
+      because of me, so as punishment, I got turned into a Girl.
+    author: oniru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693582.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 693582
+    url: /works/693582/
+  - title: Namaiki Gal o Wakarase Shimasu | I'll Teach That Cheeky Gal Some Manners
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693799.jpg
+    rating: 4.3
+    date: '2026-11-06'
+    code: 693799
+    url: /works/693799/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

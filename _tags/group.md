@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 353
+work_count: 360
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -680,6 +680,13 @@ works:
     date: '2026-09-10'
     code: 574158
     url: /works/574158/
+  - title: Seitei Gakuen Soccer-bu no Nichijou Kouhen
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581396.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 581396
+    url: /works/581396/
   - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
       Game - Training up a Cheeky Girl at a Sex Facility.
     author: carpsukidayo
@@ -698,6 +705,14 @@ works:
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 3 ~Gal 3p Hen~ | How I Got Lucky
+      and Banged the Company's Madonna 3
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584745.jpg
+    rating: 4.3
+    date: '2026-11-04'
+    code: 584745
+    url: /works/584745/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
@@ -991,6 +1006,14 @@ works:
     date: '2026-09-23'
     code: 638513
     url: /works/638513/
+  - title: Otoko Tomodachi no Youna Ore no Osananajimi ga, Yarichin ni Yotte Mesu ni
+      Saserareru Hanashi. 1-3
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638568.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 638568
+    url: /works/638568/
   - title: Please Take It Out! After
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
@@ -2417,6 +2440,39 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: Joshi Kou no Sei Shori Gakari ni Ninmei Sareru Hanashi | The Story Where
+      I Was Assigned to Sexual Relief Duty at a Girls' School
+    author: pirukusu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693377.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693377
+    url: /works/693377/
+  - title: Yarisa no Onna ga Zenin Ore no Sei de Nuketa node Batsu toshite Ore ga Onna
+      ni Naru Hanashi | A story about how all the girls in the "Hookup Circle" quit
+      because of me, so as punishment, I got turned into a Girl.
+    author: oniru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693582.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 693582
+    url: /works/693582/
+  - title: Joshikousei ni Natta Mama Tanoshimu Gakuen Seikatsu Ep.2 Ponite to Mizugi
+      | Enjoying the Life After Turning into a Schoolgirl Ep.2 Ponytail and Swimsuit
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693749.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693749
+    url: /works/693749/
+  - title: Ano Toki Yatte Okeba, Ore no Datta no ni | If I'd Had My Way Back Then, She
+      Would Have Been Mine
+    author: tokumei-kitsutsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693803.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693803
+    url: /works/693803/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

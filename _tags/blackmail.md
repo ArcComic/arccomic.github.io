@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 202
+work_count: 208
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -158,6 +158,14 @@ works:
     date: '2026-10-15'
     code: 369712
     url: /works/369712/
+  - title: Aniki ni Tabetsukusareta Ore no Kanojo. | My Older Brother Fucked My Girlfriend
+      Like Crazy
+    author: sekai-ichii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376561.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 376561
+    url: /works/376561/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
@@ -357,6 +365,14 @@ works:
     date: '2026-08-18'
     code: 508818
     url: /works/508818/
+  - title: Skirt no Naka, Netorare-chuu. ~ Fuuki Iin wa Furyou ni Zettai Fukujuu desu
+      1 | NTR Underneath Her Skirt 1
+    author: izumi-uni
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510101.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 510101
+    url: /works/510101/
   - title: Kekkon Majika no Misoji OL , Deisui Shite Kitaku go Soku Sex Shita Aite wa
       Rinjin Deshita!? 1 | A 30 year old Office Lady on the verge of Marriage comes
       Home Intoxicated, and has Sex with her Neighbor! 1
@@ -646,6 +662,13 @@ works:
     date: '2026-07-11'
     code: 617492
     url: /works/617492/
+  - title: Osananajimi o Wasureteru Boku, Netorareteru Gal.
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618033.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 618033
+    url: /works/618033/
   - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
@@ -1420,6 +1443,27 @@ works:
     date: '2026-10-28'
     code: 691635
     url: /works/691635/
+  - title: Mukashi Mukashi no Netorare Jouji | A Tale of Cuckoldry from Long Ago
+    author: kitahana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693723.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 693723
+    url: /works/693723/
+  - title: Namaiki Gal o Wakarase Shimasu | I'll Teach That Cheeky Gal Some Manners
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693799.jpg
+    rating: 4.3
+    date: '2026-11-06'
+    code: 693799
+    url: /works/693799/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Mou Hitozuma Nanoni Moto Doukyuusei 3-nin kara Kyousei Kongan Sex Saserareru
       | Even though Niina-chan’s a married woman… she gets forced by three former classmates
       into revenge sex

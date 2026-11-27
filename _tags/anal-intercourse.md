@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 129
+work_count: 132
 works:
   - title: Police Story
     author: nekoi-mie
@@ -144,6 +144,13 @@ works:
     date: '2026-03-04'
     code: 580323
     url: /works/580323/
+  - title: Seitei Gakuen Soccer-bu no Nichijou Kouhen
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581396.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 581396
+    url: /works/581396/
   - title: CHOP STICK3
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
@@ -848,6 +855,23 @@ works:
     date: '2026-10-28'
     code: 691651
     url: /works/691651/
+  - title: Ketsuana Katsuage ni Muchuu na Gal-san wa Iramura Ananii ga Tomaranai! |
+      The Gyaru Who Is Obsessed with Butt-Hole Rimjobs Just Can’t Stop Her Cumming Moans!
+    author: kutsukake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693509.jpg
+    rating: 5.0
+    date: '2026-11-04'
+    code: 693509
+    url: /works/693509/
+  - title: Yarisa no Onna ga Zenin Ore no Sei de Nuketa node Batsu toshite Ore ga Onna
+      ni Naru Hanashi | A story about how all the girls in the "Hookup Circle" quit
+      because of me, so as punishment, I got turned into a Girl.
+    author: oniru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693582.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 693582
+    url: /works/693582/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

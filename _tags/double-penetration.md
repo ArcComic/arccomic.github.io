@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 74
+work_count: 75
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -227,6 +227,14 @@ works:
     date: '2026-09-27'
     code: 631572
     url: /works/631572/
+  - title: Otoko Tomodachi no Youna Ore no Osananajimi ga, Yarichin ni Yotte Mesu ni
+      Saserareru Hanashi. 1-3
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638568.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 638568
+    url: /works/638568/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642586.jpg

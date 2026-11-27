@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "female teacher"
-work_count: 8
+work_count: 9
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -60,4 +60,12 @@ works:
     date: '2026-07-09'
     code: 662658
     url: /works/662658/
+  - title: Joshi Kou no Sei Shori Gakari ni Ninmei Sareru Hanashi | The Story Where
+      I Was Assigned to Sexual Relief Duty at a Girls' School
+    author: pirukusu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693377.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693377
+    url: /works/693377/
 ---

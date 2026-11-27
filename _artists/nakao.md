@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "nakao"
-work_count: 3
+work_count: 4
 works:
   - title: Kimi no Mae de Kimi Igai o Daku Ch. 27 | Having Sex with Someone Else in
       Front of You 27
@@ -17,6 +17,13 @@ works:
     date: '2026-07-08'
     code: 662343
     url: /works/662343/
+  - title: Kimi no Mae de Kimi Igai o Daku Ch. 42 | Having Sex with Someone Else in
+      Front of You 42
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693675.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693675
+    url: /works/693675/
   - title: Kimi no Mae de Kimi Igai o Daku Ch. 45 | Having Sex with Someone Else in
       Front of You 45
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698882.jpg

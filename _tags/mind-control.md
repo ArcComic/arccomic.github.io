@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 86
+work_count: 87
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -612,6 +612,13 @@ works:
     date: '2026-10-13'
     code: 686966
     url: /works/686966/
+  - title: Boin Yuugi
+    author: escape
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687602.jpg
+    rating: 4.3
+    date: '2026-10-15'
+    code: 687602
+    url: /works/687602/
   - title: Mama-san Volley de Mama Onaho Kaimakusen to Kesshousen! | Turning the Volleyball
       Mamas into Onaholes — Opening Match & Championship Match!
     author: dokurosan

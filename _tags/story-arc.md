@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 285
+work_count: 292
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -600,6 +600,22 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi | How I Got Lucky and Banged
+      the Company's Madonna
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584739.jpg
+    rating: 4.0
+    date: '2026-11-04'
+    code: 584739
+    url: /works/584739/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 2 ~SeFri Hen~ | How I Got Lucky
+      and Banged the Company's Madonna 2
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584740.jpg
+    rating: 4.8
+    date: '2026-11-04'
+    code: 584740
+    url: /works/584740/
   - title: My Thousand Days With Mentor Tsuji
     author: concontochu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588066.jpg
@@ -1667,6 +1683,15 @@ works:
     date: '2026-09-19'
     code: 682328
     url: /works/682328/
+  - title: Zecchou Houkai ~Tsuma no Tomodachi o Ikasetara... Sono Otto ni Tsuma o Kowasaremashita~
+      | Climax Collapse ~When I Made My Wife’s Friend Climax… Her Husband Destroyed
+      My Wife~
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682781.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 682781
+    url: /works/682781/
   - title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 04
     author: senakagashiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683013.jpg
@@ -1942,6 +1967,35 @@ works:
     date: '2026-11-23'
     code: 693010
     url: /works/693010/
+  - title: Yuri Couple ni Watte Haitte Shimatta Boku wa - Chapter 01
+    author: asahiru-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693554.jpg
+    rating: 4.0
+    date: '2026-11-06'
+    code: 693554
+    url: /works/693554/
+  - title: Its Shining Moonflower Captivates Me Ch. 1-3
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693674.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693674
+    url: /works/693674/
+  - title: Moto SeFri no Ichihara ga Nigashite Kurenai | My Ex-Sex Friend Won't Let
+      Me Go
+    author: kyapefuro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693721.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693721
+    url: /works/693721/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

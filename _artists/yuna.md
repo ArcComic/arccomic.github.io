@@ -5,7 +5,7 @@ work_count: 7
 works:
   - title: Work 383639
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383639.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-26'
     code: 383639
     url: /works/383639/
@@ -17,7 +17,7 @@ works:
     url: /works/384017/
   - title: Work 384507
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384507.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-26'
     code: 384507
     url: /works/384507/

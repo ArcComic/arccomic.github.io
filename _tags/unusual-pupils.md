@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 125
+work_count: 129
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -73,6 +73,14 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Aniki ni Tabetsukusareta Ore no Kanojo. | My Older Brother Fucked My Girlfriend
+      Like Crazy
+    author: sekai-ichii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376561.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 376561
+    url: /works/376561/
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
@@ -619,6 +627,16 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: Hisabisa ni Kisei shitara Imouto ga Dosukebe Mesugaki ni Natteta Ken ~Imouto
+      to Sugosu H na Natsuyasumi~ | When I went home for the first time in a while,
+      my little sister had turned into a perverted slut ~A naughty summer vacation spent
+      with my little sister
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663391.jpg
+    rating: 4.2
+    date: '2026-11-04'
+    code: 663391
+    url: /works/663391/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664631.jpg
@@ -814,6 +832,23 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Yarisa no Onna ga Zenin Ore no Sei de Nuketa node Batsu toshite Ore ga Onna
+      ni Naru Hanashi | A story about how all the girls in the "Hookup Circle" quit
+      because of me, so as punishment, I got turned into a Girl.
+    author: oniru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693582.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 693582
+    url: /works/693582/
+  - title: Joshikousei ni Natta Mama Tanoshimu Gakuen Seikatsu Ep.2 Ponite to Mizugi
+      | Enjoying the Life After Turning into a Schoolgirl Ep.2 Ponytail and Swimsuit
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693749.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693749
+    url: /works/693749/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

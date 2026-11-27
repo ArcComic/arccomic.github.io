@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 99
+work_count: 102
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -258,6 +258,14 @@ works:
     date: '2026-03-09'
     code: 635801
     url: /works/635801/
+  - title: Otoko Tomodachi no Youna Ore no Osananajimi ga, Yarichin ni Yotte Mesu ni
+      Saserareru Hanashi. 1-3
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638568.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 638568
+    url: /works/638568/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642586.jpg
@@ -647,6 +655,22 @@ works:
     date: '2026-10-28'
     code: 691651
     url: /works/691651/
+  - title: Joshikousei ni Natta Mama Tanoshimu Gakuen Seikatsu Ep.2 Ponite to Mizugi
+      | Enjoying the Life After Turning into a Schoolgirl Ep.2 Ponytail and Swimsuit
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693749.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693749
+    url: /works/693749/
+  - title: Ano Toki Yatte Okeba, Ore no Datta no ni | If I'd Had My Way Back Then, She
+      Would Have Been Mine
+    author: tokumei-kitsutsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693803.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693803
+    url: /works/693803/
   - title: Mou Hitozuma Nanoni Moto Doukyuusei 3-nin kara Kyousei Kongan Sex Saserareru
       | Even though Niina-chan’s a married woman… she gets forced by three former classmates
       into revenge sex

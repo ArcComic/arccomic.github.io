@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "saliva"
-work_count: 14
+work_count: 15
 works:
   - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
@@ -103,4 +103,11 @@ works:
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
 ---

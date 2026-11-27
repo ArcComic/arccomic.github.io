@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clothed female nude male"
-work_count: 18
+work_count: 19
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -132,4 +132,11 @@ works:
     date: '2026-10-13'
     code: 687044
     url: /works/687044/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
 ---

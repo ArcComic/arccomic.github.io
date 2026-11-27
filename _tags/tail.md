@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tail"
-work_count: 31
+work_count: 32
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -207,6 +207,13 @@ works:
     date: '2026-10-28'
     code: 691624
     url: /works/691624/
+  - title: Demon lord chapter 3（Original + Textless））（ongoing）
+    author: ibenz009
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693622.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 693622
+    url: /works/693622/
   - title: Otona ni Naru made Matenai kara. | I Can't Wait Until I'm an Adult
     author: toyosaki-shu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695830.jpg

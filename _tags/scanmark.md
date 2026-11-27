@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 296
+work_count: 301
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -409,6 +409,14 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: Otoko Tomodachi no Youna Ore no Osananajimi ga, Yarichin ni Yotte Mesu ni
+      Saserareru Hanashi. 1-3
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638568.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 638568
+    url: /works/638568/
   - title: The story of how the girl who was always by my side is turned into a submissive
       female by a womanizer
     author: ubuo
@@ -1744,6 +1752,15 @@ works:
     date: '2026-09-20'
     code: 682620
     url: /works/682620/
+  - title: Zecchou Houkai ~Tsuma no Tomodachi o Ikasetara... Sono Otto ni Tsuma o Kowasaremashita~
+      | Climax Collapse ~When I Made My Wife’s Friend Climax… Her Husband Destroyed
+      My Wife~
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682781.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 682781
+    url: /works/682781/
   - title: NeCafe no Onee-san to 3-Jikan Pack no xxx | XXX with the Net Cafe Lady on
       a 3-Hour Package
     author: technician
@@ -1962,6 +1979,14 @@ works:
     date: '2026-10-15'
     code: 687531
     url: /works/687531/
+  - title: Joukyou Share House 2 ~Honmono no Osu o Shitte shimatta Kanojo~ | TOKYO SHAREHOUSE
+      2 - MY GIRLFRIEND, AWAKENED BY A REAL ALPHA
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687532.jpg
+    rating: 4.9
+    date: '2026-10-15'
+    code: 687532
+    url: /works/687532/
   - title: Riho-chan Kashidashi Surutte Yo
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
@@ -1983,6 +2008,13 @@ works:
     date: '2026-10-15'
     code: 687596
     url: /works/687596/
+  - title: Boin Yuugi
+    author: escape
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687602.jpg
+    rating: 4.3
+    date: '2026-10-15'
+    code: 687602
+    url: /works/687602/
   - title: Futanari-chan to Kareshi no Dekinai Osananajimi - The Futanari Girl and Her
       Longtime Friend Who Can't Find a Boyfriend | Futanari-chan and the Childhood Friend
       Who Can't Get a Boyfriend
@@ -2111,6 +2143,13 @@ works:
     date: '2026-10-30'
     code: 691442
     url: /works/691442/
+  - title: Inaka de Oba-san to Mechamecha Sex Shita Hanashi | THE STORY OF HOW I HAD
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691443.jpg
+    rating: 4.7
+    date: '2026-11-04'
+    code: 691443
+    url: /works/691443/
   - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tokyo gunjo"
-work_count: 10
+work_count: 11
 works:
   - &id001
     title: Yarareru kanojo - Hitozumajoushi ManaNTR -
@@ -53,4 +53,12 @@ works:
     code: 680187
     url: /works/680187/
   - *id004
+  - title: Hitozuma ni Natta Osananajimi o "Nandemo Ken" de Daita Natsu Zoku | The Summer
+      I Took My Childhood Friend, Now a Wife, With a "Good-for-Anything Coupon" - Sequel
+    author: special-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693802.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 693802
+    url: /works/693802/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 69
+work_count: 71
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -228,6 +228,14 @@ works:
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi | How I Got Lucky and Banged
+      the Company's Madonna
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584739.jpg
+    rating: 4.0
+    date: '2026-11-04'
+    code: 584739
+    url: /works/584739/
   - title: Kyoya, My Childhood Friend Rapes Me In My Dream...
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587827.jpg
@@ -468,6 +476,14 @@ works:
     date: '2026-10-13'
     code: 687003
     url: /works/687003/
+  - title: Joukyou Share House 2 ~Honmono no Osu o Shitte shimatta Kanojo~ | TOKYO SHAREHOUSE
+      2 - MY GIRLFRIEND, AWAKENED BY A REAL ALPHA
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687532.jpg
+    rating: 4.9
+    date: '2026-10-15'
+    code: 687532
+    url: /works/687532/
   - title: Kinpatsu Kyonyuu Ani-Wota Ryuugakusei Chorosugi www | The Blonde, Busty Anime-Otaku
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki

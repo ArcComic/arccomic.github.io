@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 37
+work_count: 38
 works:
   - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
       with a tradition of taking their son's virginity
@@ -225,6 +225,15 @@ works:
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
+  - title: Zutto Suki datta Onee-san ga Zenshin Jiko Kaihatsu-zumi no Shojo Miboujin
+      ni natteta Hanashi | The Onee-san I’ve Always Loved Became a Virgin Widow Who
+      Had Fully Cultivated Her Own Body
+    author: luku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693234.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693234
+    url: /works/693234/
   - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg

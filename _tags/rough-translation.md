@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 879
+work_count: 893
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -205,6 +205,14 @@ works:
     date: '2026-04-15'
     code: 519274
     url: /works/519274/
+  - title: Motto ! Choushin Itoko to Ecchii Koto Shiyo | I Want to Do Sexy Things with
+      My Tall Younger Cousin 2
+    author: hachimitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519746.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 519746
+    url: /works/519746/
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520363.jpg
@@ -593,6 +601,13 @@ works:
     date: '2026-09-29'
     code: 580833
     url: /works/580833/
+  - title: Seitei Gakuen Soccer-bu no Nichijou Kouhen
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581396.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 581396
+    url: /works/581396/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581704.jpg
@@ -1487,6 +1502,14 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: Otoko Tomodachi no Youna Ore no Osananajimi ga, Yarichin ni Yotte Mesu ni
+      Saserareru Hanashi. 1-3
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638568.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 638568
+    url: /works/638568/
   - title: The story of how the girl who was always by my side is turned into a submissive
       female by a womanizer
     author: ubuo
@@ -4920,6 +4943,15 @@ works:
     date: '2026-09-20'
     code: 682620
     url: /works/682620/
+  - title: Zecchou Houkai ~Tsuma no Tomodachi o Ikasetara... Sono Otto ni Tsuma o Kowasaremashita~
+      | Climax Collapse ~When I Made My Wife’s Friend Climax… Her Husband Destroyed
+      My Wife~
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682781.jpg
+    rating: 4.1
+    date: '2026-11-06'
+    code: 682781
+    url: /works/682781/
   - title: NeCafe no Onee-san to 3-Jikan Pack no xxx | XXX with the Net Cafe Lady on
       a 3-Hour Package
     author: technician
@@ -5628,6 +5660,14 @@ works:
     date: '2026-10-15'
     code: 687531
     url: /works/687531/
+  - title: Joukyou Share House 2 ~Honmono no Osu o Shitte shimatta Kanojo~ | TOKYO SHAREHOUSE
+      2 - MY GIRLFRIEND, AWAKENED BY A REAL ALPHA
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687532.jpg
+    rating: 4.9
+    date: '2026-10-15'
+    code: 687532
+    url: /works/687532/
   - title: Riho-chan Kashidashi Surutte Yo
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
@@ -5649,6 +5689,13 @@ works:
     date: '2026-10-15'
     code: 687596
     url: /works/687596/
+  - title: Boin Yuugi
+    author: escape
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687602.jpg
+    rating: 4.3
+    date: '2026-10-15'
+    code: 687602
+    url: /works/687602/
   - title: Mama-san Volley de Mama Onaho Kaimakusen to Kesshousen! | Turning the Volleyball
       Mamas into Onaholes — Opening Match & Championship Match!
     author: dokurosan
@@ -5943,6 +5990,13 @@ works:
     date: '2026-10-30'
     code: 691442
     url: /works/691442/
+  - title: Inaka de Oba-san to Mechamecha Sex Shita Hanashi | THE STORY OF HOW I HAD
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691443.jpg
+    rating: 4.7
+    date: '2026-11-04'
+    code: 691443
+    url: /works/691443/
   - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg
@@ -6009,6 +6063,46 @@ works:
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
+  - title: Ketsuana Katsuage ni Muchuu na Gal-san wa Iramura Ananii ga Tomaranai! |
+      The Gyaru Who Is Obsessed with Butt-Hole Rimjobs Just Can’t Stop Her Cumming Moans!
+    author: kutsukake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693509.jpg
+    rating: 5.0
+    date: '2026-11-04'
+    code: 693509
+    url: /works/693509/
+  - title: Yarisa no Onna ga Zenin Ore no Sei de Nuketa node Batsu toshite Ore ga Onna
+      ni Naru Hanashi | A story about how all the girls in the "Hookup Circle" quit
+      because of me, so as punishment, I got turned into a Girl.
+    author: oniru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693582.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 693582
+    url: /works/693582/
+  - title: Namaiki Gal o Wakarase Shimasu | I'll Teach That Cheeky Gal Some Manners
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693799.jpg
+    rating: 4.3
+    date: '2026-11-06'
+    code: 693799
+    url: /works/693799/
+  - title: Hitozuma ni Natta Osananajimi o "Nandemo Ken" de Daita Natsu Zoku | The Summer
+      I Took My Childhood Friend, Now a Wife, With a "Good-for-Anything Coupon" - Sequel
+    author: special-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693802.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 693802
+    url: /works/693802/
+  - title: Ano Toki Yatte Okeba, Ore no Datta no ni | If I'd Had My Way Back Then, She
+      Would Have Been Mine
+    author: tokumei-kitsutsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693803.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693803
+    url: /works/693803/
   - title: Even the chairman wants to do it, you know
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693913.jpg
@@ -6031,6 +6125,22 @@ works:
     date: '2026-11-09'
     code: 693920
     url: /works/693920/
+  - title: The Useless Succubus Is Going to Reach Orgasm Today for Sure
+    author: signo-mandara-signoaaa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693922.jpg
+    rating: 4.8
+    date: '2026-11-06'
+    code: 693922
+    url: /works/693922/
+  - title: Muhyoujou JK Aizawa-san Basaki de Okyaku-san to Zenryoku Gohoubi H | Expressionless
+      high school girl Aizawa gives a full-on reward sex with a customer at her part-time
+      job
+    author: signo-mandara-signoaaa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693925.jpg
+    rating: 4.9
+    date: '2026-11-06'
+    code: 693925
+    url: /works/693925/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg

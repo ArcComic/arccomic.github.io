@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "slave"
-work_count: 23
+work_count: 24
 works:
   - title: Komorebi no Ori
     author: hitoi
@@ -172,4 +172,11 @@ works:
     date: '2026-10-10'
     code: 686422
     url: /works/686422/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
 ---

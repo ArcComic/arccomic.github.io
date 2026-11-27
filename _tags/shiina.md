@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shiina"
-work_count: 2
+work_count: 3
 works:
   - title: Noraneko Shoujo to no Kurashikata Vol. 6
     author: shiina
@@ -18,4 +18,11 @@ works:
     date: '2026-05-07'
     code: 648550
     url: /works/648550/
+  - title: Arisu-chan no Onegai Goto | Arisu-chan's Request Ch.1-3
+    author: shiina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693789.jpg
+    rating: 4.6
+    date: '2026-11-04'
+    code: 693789
+    url: /works/693789/
 ---

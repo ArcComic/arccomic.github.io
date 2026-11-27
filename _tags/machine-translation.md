@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 44
+work_count: 45
 works:
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
@@ -324,6 +324,14 @@ works:
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
+  - title: Ketsuana Katsuage ni Muchuu na Gal-san wa Iramura Ananii ga Tomaranai! |
+      The Gyaru Who Is Obsessed with Butt-Hole Rimjobs Just Can’t Stop Her Cumming Moans!
+    author: kutsukake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693509.jpg
+    rating: 5.0
+    date: '2026-11-04'
+    code: 693509
+    url: /works/693509/
   - title: Married Woman in Random Chat MTL
     author: luxsumildo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696096.jpg

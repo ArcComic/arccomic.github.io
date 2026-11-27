@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cousin"
-work_count: 22
+work_count: 23
 works:
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
@@ -27,6 +27,14 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Motto ! Choushin Itoko to Ecchii Koto Shiyo | I Want to Do Sexy Things with
+      My Tall Younger Cousin 2
+    author: hachimitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519746.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 519746
+    url: /works/519746/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'

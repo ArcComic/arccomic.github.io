@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 71
+work_count: 74
 works:
   - title: Natsu no Hyoui
     author: yuniba
@@ -470,6 +470,13 @@ works:
     date: '2026-10-03'
     code: 685522
     url: /works/685522/
+  - title: Tanoshi Kingdom - FUN! FUN! KNGDOM!
+    author: mukaibi-aoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685741.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685741
+    url: /works/685741/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
@@ -506,6 +513,21 @@ works:
     date: '2026-10-17'
     code: 688259
     url: /works/688259/
+  - title: Yuri Couple ni Watte Haitte Shimatta Boku wa - Chapter 01
+    author: asahiru-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693554.jpg
+    rating: 4.0
+    date: '2026-11-06'
+    code: 693554
+    url: /works/693554/
+  - title: Watashi no Karada ga Otoko ni Okasareru | My Body is Being Messed with by
+      My Stalker!
+    author: makura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693573.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693573
+    url: /works/693573/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg

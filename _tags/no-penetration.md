@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 46
+work_count: 48
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -322,6 +322,21 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Watashi no Karada ga Otoko ni Okasareru | My Body is Being Messed with by
+      My Stalker!
+    author: makura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693573.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693573
+    url: /works/693573/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Bokura no Libido - CHAPTER 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg

@@ -11,7 +11,7 @@ works:
     url: /works/105637/
   - title: Work 111014
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/111014.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-26'
     code: 111014
     url: /works/111014/
@@ -23,7 +23,7 @@ works:
     url: /works/116217/
   - title: Work 136989
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/136989.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-26'
     code: 136989
     url: /works/136989/
@@ -41,7 +41,7 @@ works:
     url: /works/339457/
   - title: Work 427671
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427671.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-26'
     code: 427671
     url: /works/427671/

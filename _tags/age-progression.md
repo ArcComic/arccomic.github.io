@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "age progression"
-work_count: 8
+work_count: 9
 works:
   - title: Risato
     author: unknown
@@ -10,6 +10,14 @@ works:
     date: '2026-02-28'
     code: 484852
     url: /works/484852/
+  - title: Motto ! Choushin Itoko to Ecchii Koto Shiyo | I Want to Do Sexy Things with
+      My Tall Younger Cousin 2
+    author: hachimitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519746.jpg
+    rating: 4.4
+    date: '2026-11-06'
+    code: 519746
+    url: /works/519746/
   - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg

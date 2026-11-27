@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gustav"
-work_count: 6
+work_count: 7
 works:
   - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
     author: gustav
@@ -47,4 +47,11 @@ works:
     date: '2026-10-01'
     code: 663254
     url: /works/663254/
+  - title: Its Shining Moonflower Captivates Me Ch. 1-3
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693674.jpg
+    rating: 4.4
+    date: '2026-11-04'
+    code: 693674
+    url: /works/693674/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "ubuo"
-work_count: 2
+work_count: 3
 works:
   - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
@@ -9,6 +9,13 @@ works:
     date: '2026-11-12'
     code: 638322
     url: /works/638322/
+  - title: Otoko Tomodachi no Youna Ore no Osananajimi ga, Yarichin ni Yotte Mesu ni
+      Saserareru Hanashi. 1-3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638568.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 638568
+    url: /works/638568/
   - title: The story of how the girl who was always by my side is turned into a submissive
       female by a womanizer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638600.jpg

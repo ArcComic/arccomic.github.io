@@ -5,7 +5,7 @@ work_count: 7
 works:
   - title: Work 588146
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588146.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-26'
     code: 588146
     url: /works/588146/
@@ -42,7 +42,7 @@ works:
     url: /works/646017/
   - title: Work 651932
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651932.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-26'
     code: 651932
     url: /works/651932/

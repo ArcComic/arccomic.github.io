@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender morph"
-work_count: 39
+work_count: 40
 works:
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
@@ -269,6 +269,13 @@ works:
     date: '2026-10-10'
     code: 686422
     url: /works/686422/
+  - title: Demon lord chapter 3（Original + Textless））（ongoing）
+    author: ibenz009
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693622.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 693622
+    url: /works/693622/
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg

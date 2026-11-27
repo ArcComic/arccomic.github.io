@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tribadism"
-work_count: 20
+work_count: 22
 works:
   - title: Ojou-sama Irekawari
     author: yuniba
@@ -140,6 +140,13 @@ works:
     date: '2026-10-03'
     code: 685522
     url: /works/685522/
+  - title: Tanoshi Kingdom - FUN! FUN! KNGDOM!
+    author: mukaibi-aoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685741.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685741
+    url: /works/685741/
   - title: A Book About Saki Imagining Lesbian Sex with Kanon
     author: satou-to-shio-botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685989.jpg
@@ -147,4 +154,12 @@ works:
     date: '2026-10-05'
     code: 685989
     url: /works/685989/
+  - title: Watashi no Karada ga Otoko ni Okasareru | My Body is Being Messed with by
+      My Stalker!
+    author: makura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693573.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693573
+    url: /works/693573/
 ---

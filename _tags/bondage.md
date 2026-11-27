@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 137
+work_count: 138
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -922,6 +922,13 @@ works:
     date: '2026-10-18'
     code: 688413
     url: /works/688413/
+  - title: Misao no Keiyaku - CHAPTER 1-16
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg
+    rating: 4.1
+    date: '2026-11-04'
+    code: 694049
+    url: /works/694049/
   - title: Mou Hitozuma Nanoni Moto Doukyuusei 3-nin kara Kyousei Kongan Sex Saserareru
       | Even though Niina-chan’s a married woman… she gets forced by three former classmates
       into revenge sex

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 90
+work_count: 92
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -312,6 +312,13 @@ works:
     date: '2026-10-11'
     code: 599165
     url: /works/599165/
+  - title: Osananajimi o Wasureteru Boku, Netorareteru Gal.
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618033.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 618033
+    url: /works/618033/
   - title: Natsu no Hi no Omoide
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
@@ -608,6 +615,14 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: Kimi no Mae de Kimi Igai o Daku Ch. 42 | Having Sex with Someone Else in
+      Front of You 42
+    author: nakao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693675.jpg
+    rating: 4.5
+    date: '2026-11-06'
+    code: 693675
+    url: /works/693675/
   - title: Momota-san Next Door
     author: hogeramu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg

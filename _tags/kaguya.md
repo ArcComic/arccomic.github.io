@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kaguya"
-work_count: 1
+work_count: 2
 works:
   - title: Tsuki ga Michiru Mae ni | Before the Moon Waxes Full
     author: sousouman
@@ -10,4 +10,11 @@ works:
     date: '2026-09-30'
     code: 684905
     url: /works/684905/
+  - title: Tanoshi Kingdom - FUN! FUN! KNGDOM!
+    author: mukaibi-aoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685741.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685741
+    url: /works/685741/
 ---

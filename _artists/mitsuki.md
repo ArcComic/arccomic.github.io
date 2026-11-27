@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "mitsuki"
-work_count: 4
+work_count: 5
 works:
   - title: PERSONAL TRAINING
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208284.jpg
@@ -30,4 +30,10 @@ works:
     date: '2026-07-10'
     code: 662890
     url: /works/662890/
+  - title: Namaiki Gal o Wakarase Shimasu | I'll Teach That Cheeky Gal Some Manners
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693799.jpg
+    rating: 4.3
+    date: '2026-11-06'
+    code: 693799
+    url: /works/693799/
 ---

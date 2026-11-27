@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incomplete"
-work_count: 18
+work_count: 19
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -125,6 +125,13 @@ works:
     date: '2026-09-17'
     code: 681720
     url: /works/681720/
+  - title: Demon lord chapter 3（Original + Textless））（ongoing）
+    author: ibenz009
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693622.jpg
+    rating: 4.6
+    date: '2026-11-06'
+    code: 693622
+    url: /works/693622/
   - title: A story about mercenaries ravishing the elven princess
     author: doku-marimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695351.jpg
