@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 69
+work_count: 70
 works:
+  - title: Dekoboko Complex
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/125637.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 125637
+    url: /works/125637/
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg

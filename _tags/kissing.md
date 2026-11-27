@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 606
+work_count: 607
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1421,6 +1421,13 @@ works:
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
+  - title: MegamiYuui ~ part 2
+    author: himino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611904.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 611904
+    url: /works/611904/
   - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~
     author: shiono-kou

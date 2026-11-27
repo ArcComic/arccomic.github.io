@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast expansion"
-work_count: 8
+work_count: 9
 works:
   - title: Kono Smapho Appli de Sex wa Risouka Sareru! ~Kozakura Kumaneko Full Color
       Sakuhinshuu~
@@ -11,6 +11,14 @@ works:
     date: '2026-11-11'
     code: 399771
     url: /works/399771/
+  - title: Mahou Shoujo Saint Lily Valkyrie ~Teki Soshiki ni Sennou Choukyou Sareta
+      Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 637171
+    url: /works/637171/
   - title: How I, a fighting gamer, became the heroine of a cosplay AV
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645566.jpg

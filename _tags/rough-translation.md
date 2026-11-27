@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 896
+work_count: 898
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -886,6 +886,13 @@ works:
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
+  - title: MegamiYuui ~ part 2
+    author: himino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611904.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 611904
+    url: /works/611904/
   - title: Maid-san no Shokushu zuke houshikatsudou
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611988.jpg
@@ -1408,6 +1415,14 @@ works:
     date: '2026-08-25'
     code: 637131
     url: /works/637131/
+  - title: Mahou Shoujo Saint Lily Valkyrie ~Teki Soshiki ni Sennou Choukyou Sareta
+      Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 637171
+    url: /works/637171/
   - title: Fetishism Vol. 20 ~Ashikoki Hen~
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg

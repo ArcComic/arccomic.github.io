@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 270
+work_count: 271
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -685,6 +685,13 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: MegamiYuui ~ part 2
+    author: himino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611904.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 611904
+    url: /works/611904/
   - title: Dasuru Haha Musuko ni Nandomo Irerarete
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612083.jpg

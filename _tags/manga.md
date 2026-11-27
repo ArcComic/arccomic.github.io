@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 506
+work_count: 507
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -45,6 +45,13 @@ works:
     date: '2026-09-10'
     code: 119757
     url: /works/119757/
+  - title: Dekoboko Complex
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/125637.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 125637
+    url: /works/125637/
   - title: Office Love Scramble Ch. 1
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg

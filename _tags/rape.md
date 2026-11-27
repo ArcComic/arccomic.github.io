@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 309
+work_count: 310
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -1099,6 +1099,14 @@ works:
     date: '2026-03-07'
     code: 635241
     url: /works/635241/
+  - title: Mahou Shoujo Saint Lily Valkyrie ~Teki Soshiki ni Sennou Choukyou Sareta
+      Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 637171
+    url: /works/637171/
   - title: FORBIDDEN RAIN KOBO KANAERU 2
     author: clef
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637709.jpg

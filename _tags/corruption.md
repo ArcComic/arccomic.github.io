@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "corruption"
-work_count: 27
+work_count: 28
 works:
   - title: 'Jujutsu Kaisen: Mahito Mayhem'
     author: mayitgu
@@ -39,6 +39,14 @@ works:
     date: '2026-09-27'
     code: 631572
     url: /works/631572/
+  - title: Mahou Shoujo Saint Lily Valkyrie ~Teki Soshiki ni Sennou Choukyou Sareta
+      Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 637171
+    url: /works/637171/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646146.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1276
+work_count: 1277
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -17,6 +17,13 @@ works:
     date: '2026-05-04'
     code: 112455
     url: /works/112455/
+  - title: Dekoboko Complex
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/125637.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 125637
+    url: /works/125637/
   - title: Birthday
     author: hashiba-yachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/135719.jpg

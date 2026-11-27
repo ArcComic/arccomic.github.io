@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 508
+work_count: 510
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -24,6 +24,13 @@ works:
     date: '2026-10-09'
     code: 106821
     url: /works/106821/
+  - title: Dekoboko Complex
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/125637.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 125637
+    url: /works/125637/
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
@@ -1346,6 +1353,13 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: MegamiYuui ~ part 2
+    author: himino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611904.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 611904
+    url: /works/611904/
   - title: Mama ga Muchuu na Musume no Kareshi 2 - Kono Chinpo wa Kyouikujou Yoroshikunai
       node Mama ga Shori Shimasu. | Mom's obsessed with her Daughter's Boyfriend 2
     author: ohnaka-ito

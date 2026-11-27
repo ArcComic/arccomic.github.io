@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 230
+work_count: 231
 works:
+  - title: Dekoboko Complex
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/125637.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 125637
+    url: /works/125637/
   - title: Hanamizuki
     author: orikuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/162047.jpg

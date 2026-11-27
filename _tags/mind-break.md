@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 90
+work_count: 91
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -294,6 +294,14 @@ works:
     date: '2026-11-21'
     code: 635882
     url: /works/635882/
+  - title: Mahou Shoujo Saint Lily Valkyrie ~Teki Soshiki ni Sennou Choukyou Sareta
+      Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 637171
+    url: /works/637171/
   - title: Stupid women are forced to become breeding slaves
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg

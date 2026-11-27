@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1453
+work_count: 1454
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4470,6 +4470,13 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: MegamiYuui ~ part 2
+    author: himino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611904.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 611904
+    url: /works/611904/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen

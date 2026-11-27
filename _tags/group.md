@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 360
+work_count: 361
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -992,6 +992,14 @@ works:
     date: '2026-09-25'
     code: 635879
     url: /works/635879/
+  - title: Mahou Shoujo Saint Lily Valkyrie ~Teki Soshiki ni Sennou Choukyou Sareta
+      Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 637171
+    url: /works/637171/
   - title: Chinpo ni Katenai Onna-tachi
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638359.jpg

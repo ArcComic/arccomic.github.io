@@ -19,6 +19,7 @@ import subprocess
 import threading
 import functools
 import requests
+from pathlib import Path
 from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 from telegram import Update
@@ -3119,6 +3120,22 @@ def update_verification_tag(tag_html):
     print("✅ Verification tag updated in index.html")
     return True
 
+# ============== SHARED COOKIE VAULT (age-gate cookie, shared across bots) ==============
+# See HANDOFF.md "Shared Cookie Vault" section. Same pattern/file used by QuickAid.py.
+SHARED_COOKIES_FILE = Path.home() / "shared_cookies" / "cookies.json"
+
+def load_shared_cookies(site):
+    """Returns {cookie_name: cookie_value} for `site`, or {} on any failure
+    (missing file, malformed JSON, missing site key). Never raises — a
+    missing cookie file just means scrape_site runs without it, same as
+    before this existed."""
+    try:
+        data = json.loads(SHARED_COOKIES_FILE.read_text())
+        entry = data.get(site, {})
+        return {c["name"]: c["value"] for c in entry.get("cookies", [])}
+    except Exception:
+        return {}
+
 # ============== SITE SCRAPER (nhentai.net) ==============
 def scrape_site(code, domain="https://nhentai.net"):
     """
@@ -3133,7 +3150,8 @@ def scrape_site(code, domain="https://nhentai.net"):
             "User-Agent": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 "
                           "(KHTML, like Gecko) Chrome/120.0 Mobile Safari/537.36"
         }
-        r = requests.get(url, headers=headers, timeout=20)
+        cookies = load_shared_cookies("nhentai")
+        r = requests.get(url, headers=headers, cookies=cookies, timeout=20)
         r.raise_for_status()
         # Use r.content (raw bytes), not r.text. requests guesses encoding
         # from HTTP headers which are often wrong/missing charset info;
